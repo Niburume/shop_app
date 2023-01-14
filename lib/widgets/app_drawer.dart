@@ -27,7 +27,7 @@ class WAppDrawer extends StatelessWidget {
           const Divider(),
           ListTile(
             leading: Icon(Icons.payment),
-            title: Text('Orderssssss'),
+            title: Text('Ordersssssss'),
             onTap: () {
               // Navigator.of(context)
               //     .pushReplacementNamed(OrdersScreen.routeName);
